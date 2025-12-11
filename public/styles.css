@@ -1,0 +1,5 @@
+body{ background:#0f1724; color:#e6eef8; font-family:Inter,Arial; padding:18px; }
+.container{ max-width:900px; margin:auto; }
+.controls{ background:#0b1220; padding:12px; border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.5); }
+button{ margin:6px; padding:8px 12px; border-radius:6px; border:none; background:#0ea5e9; color:#022; cursor:pointer; }
+.logs{ background:#071022; padding:12px; min-height:240px; margin-top:12px; border-radius:6px; overflow:auto; }
